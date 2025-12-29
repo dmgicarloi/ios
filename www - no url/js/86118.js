@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[86118],{86118:function(r,e,n){n.r(e),n.d(e,{default:function(){return f}});var u=n(61758);function a(r,e){var n=(0,u.g2)("matricula");return(0,u.uX)(),(0,u.Wv)(n,{isReserva:!0})}var t=n(58500),s={components:{matricula:t["default"]}},c=n(12807);const l=(0,c.A)(s,[["render",a]]);var f=l}}]);

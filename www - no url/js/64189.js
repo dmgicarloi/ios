@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[64189],{64189:function(n,e,t){t.r(e),t.d(e,{default:function(){return c}});var u=t(61758);function r(n,e){var t=(0,u.g2)("boletin");return(0,u.uX)(),(0,u.Wv)(t,{exAlumno:!0})}var l=t(99432),o={components:{boletin:l["default"]}},s=t(12807);const a=(0,s.A)(o,[["render",r]]);var c=a}}]);

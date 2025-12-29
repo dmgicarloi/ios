@@ -1,0 +1,1 @@
+.col-width-300px{width:300px}.col-width-300px + *{width:auto;height:auto;max-height:100%;-webkit-box-flex:10000;-ms-flex:10000 1 0%;flex:10000 1 0%;min-height:0}@media (max-width:991px){.col-width-300px{width:100%}.col-width-300px + *{width:100%}}.modal-plantilla.sie-modal .modal-content{min-width:600px}

@@ -1,0 +1,3 @@
+.consultas-ficha-sintomatologica .q-if-outlined{margin:0}.consultas-ficha-sintomatologica .q-if-outlined:before{border-color:#c2c2c2}.consultas-ficha-sintomatologica table tbody tr td[data-text^="Ingresa"]{background:#008000;color:#fff;background-clip:content-box}.consultas-ficha-sintomatologica table tbody tr td[data-text^="No ingresa"]{background:#f00;color:#fff;background-clip:content-box}
+.modal-asignar-fechas .modal-content{min-width:1000px !important;min-height:70vh !important;max-width:1000px !important}@media (max-width:400px){.modal-asignar-fechas .modal-content{min-width:100vw !important;max-width:100vw !important;min-height:100vh !important;max-height:100vh !important}}
+.q-chips-small .q-input-chips .q-chip{height:24px;margin:4px 1px 1px 1px}

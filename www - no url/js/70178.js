@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[70178],{70178:function(e,s,u){u.r(s);var n=u(61758),t=u(29569);s["default"]={render:function(){return(0,n.h)(t["default"],{siscod:24,tipo:2})}}}}]);

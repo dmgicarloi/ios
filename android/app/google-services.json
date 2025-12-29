@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "488027904034",
+    "firebase_url": "https://sieweb-lms.firebaseio.com",
+    "project_id": "sieweb-lms",
+    "storage_bucket": "sieweb-lms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488027904034:android:8ef06fb35b376deb",
+        "android_client_info": {
+          "package_name": "com.sieweb.fap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGfVbkEppnb3G-p5h0W6LyGvk7CqMrcxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488027904034:android:373301c211919891",
+        "android_client_info": {
+          "package_name": "pe.com.sieweb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGfVbkEppnb3G-p5h0W6LyGvk7CqMrcxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+ANDROID
+- https://developer.android.com/studio?hl=es-419
+1- Descargar android studio
+2- Descargar herramientas de línea de comandos
+
+-- INSTALAR HERRAMIENTAS DESDE SDKMANAGER
+sdkmanager.bat --sdk_root="C:\Users\ccuya\AppData\Local\Android" "platform-tools" "build-tools;35.0.0" "platforms;android-35"
+
+ENVIROMENTS
+ANDROID_HOME
+	C:\Users\ccuya\AppData\Local\Android\Sdk
+ANDROID_SDK_ROOT
+C:\Users\ccuya\AppData\Local\Android\Sdk
+
+EN EL PATH
+C:\Users\ccuya\AppData\Local\Android\Sdk\build-tools\35.0.0
+
+0- cd quasar-migracion
+1- quasar build -m capacitor -T android
+2- cd src-capacitor
+3- Cambiar verión del proyecto cambiando las variables versionCode 334 versionName "0.6.4" (quasar-migracion/src-capacitor/android/app/build.gradle)
+3- npx capacitor sync
+4- cd android
+5- gradlew clean
+6- gradlew bundleRelease
+7- en producción jarsigner -verbose -sigalg SHA256withRSA -digestalg SHA-256 -keystore D:/sieweb/mobile-template/android.keystore D:/sieweb/mobile-template/android/app/build/outputs/bundle/release/app-release.aab android
+(cambiar el sieweb.keystore por el de producción)
+8- sieweb.keystore la clave es colhyow3b

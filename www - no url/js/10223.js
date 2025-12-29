@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[10223],{10223:function(a,n,e){e.r(n),e.d(n,{default:function(){return l}});var r=e(61758);function s(a,n){var e=(0,r.g2)("familia");return(0,r.uX)(),(0,r.Wv)(e,{title:"Datos Familiares",siscod:"28"})}var t=e(74375),i={components:{familia:t.A}},u=e(12807);const c=(0,u.A)(i,[["render",s]]);var l=c}}]);

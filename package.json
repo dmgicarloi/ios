@@ -1,0 +1,21 @@
+{
+  "name": "lms",
+  "version": "0.2.2",
+  "description": "El SieWeb Intranet es un novedoso sistema de interacción Alumno-Profesor-Familia-Colegio. Mejora la comunicación entre los padres de familia y los profesores, y permite un mejor control de los padres con sus hijos.",
+  "author": "Equipo Vue <vueteam@hyosystem.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor-community/fcm": "^5.0.3",
+    "@capacitor/android": "^5.7.0",
+    "@capacitor/app": "^5.0.7",
+    "@capacitor/camera": "^5.0.9",
+    "@capacitor/cli": "^5.7.0",
+    "@capacitor/core": "^5.7.0",
+    "@capacitor/ios": "^5.7.0",
+    "@capacitor/local-notifications": "^5.0.7",
+    "@capacitor/push-notifications": "^5.1.0",
+    "@capacitor/splash-screen": "^5.0.7",
+    "@capacitor/status-bar": "^5.0.7",
+    "firebase": "^9.23.0"
+  }
+}

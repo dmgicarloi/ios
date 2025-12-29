@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[98283],{20664:function(e,n,u){u.r(n);var s=u(61758),r=u(62481);n["default"]={render:function(){return(0,s.h)(r.A,{module:"eventos"})}}}}]);

@@ -1,0 +1,11 @@
+npm install @capacitor/assets --save-dev
+
+assets/
+├── icon-only.png
+├── icon-foreground.png
+├── icon-background.png
+├── splash.png
+└── splash-dark.png
+
+
+npx capacitor-assets generate

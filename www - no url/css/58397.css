@@ -1,0 +1,5 @@
+
+body .academico-components-sie-table{background:transparent !important;-webkit-box-shadow:none;box-shadow:none}body .academico-components-sie-table .q-date{height:auto !important}body table thead .q-table__linear-progress.q-linear-progress{height:3px;position:sticky;top:0}.academico-component-sie-table .loading-container{position:absolute;z-index:5000;background:rgba(211,211,211,0.2)}
+.modal-asignar-fechas .modal-content{min-width:1000px !important;min-height:70vh !important;max-width:1000px !important}@media (max-width:400px){.modal-asignar-fechas .modal-content{min-width:100vw !important;max-width:100vw !important;min-height:100vh !important;max-height:100vh !important}}
+
+

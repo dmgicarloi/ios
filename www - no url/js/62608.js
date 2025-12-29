@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[62608],{62608:function(n,e,u){u.r(e),u.d(e,{default:function(){return f}});var r=u(61758),t=u(62481),s={render:function(){return(0,r.h)(t.A,{module:"afijo"})}};const c=s;var f=c}}]);

@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[25302],{25302:function(n,r,e){e.r(r),e.d(r,{default:function(){return o}});var t=e(61758);function a(n,r){var e=(0,t.g2)("generar-carnets");return(0,t.uX)(),(0,t.Wv)(e)}var s=e(39945),u={components:{generarCarnets:s.A}},c=e(12807);const f=(0,c.A)(u,[["render",a]]);var o=f}}]);

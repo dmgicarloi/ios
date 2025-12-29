@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[16953],{16953:function(n,e,u){u.r(e),u.d(e,{default:function(){return l}});var r=u(61758),c=u(62481),t={render:function(){return(0,r.h)(c.A,{module:"almaceninicial"})}};const a=t;var l=a}}]);

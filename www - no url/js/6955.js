@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[6955],{6955:function(e,u,n){n.r(u);var r=n(61758),s=n(95849),t=n(31425);u["default"]={render:function(){return(0,r.h)(t.A,{id:s["default"].CONTROL_EVENTO.ASISTENCIA})}}}}]);

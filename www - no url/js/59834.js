@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[59834],{59834:function(n,e,u){u.r(e),u.d(e,{default:function(){return a}});var r=u(61758),s=u(62481),t={render:function(){return(0,r.h)(s.A,{module:"admisions"})}};const c=t;var a=c}}]);

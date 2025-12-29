@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[85501],{85501:function(r,n,u){u.r(n),u.d(n,{default:function(){return l}});var e=u(61758);function o(r,n){var u=(0,e.g2)("cfgFormulario");return(0,e.uX)(),(0,e.Wv)(u,{exAlumno:!0})}var t=u(98543),a={components:{cfgFormulario:t["default"]}},c=u(12807);const f=(0,c.A)(a,[["render",o]]);var l=f}}]);

@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklms"]=self["webpackChunklms"]||[]).push([[34002],{34002:function(s,e,i){i.r(e);var r=i(61758),l=i(56777);e["default"]={props:["id","perfil"],render:function(){return(0,r.h)("div",{class:"q-pa-sm"},[(0,r.h)(l["default"],{id:this.id,perfil:this.perfil,siscod:"05"})])}}}}]);

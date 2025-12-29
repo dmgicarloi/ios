@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SieWeb</string>
+    <string name="title_activity_main">SieWeb</string>
+    <string name="package_name">pe.com.sieweb</string>
+    <string name="custom_url_scheme">pe.com.sieweb</string>
+</resources>
